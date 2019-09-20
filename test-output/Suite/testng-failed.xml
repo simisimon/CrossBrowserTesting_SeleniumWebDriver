@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Chrome_Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="url" value="https://www.mobile.de/"/>
+    <classes>
+      <class name="CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest">
+        <methods>
+          <include name="verifyDetailedSearch" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="verifyQuickSearch" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest -->
+    </classes>
+  </test> <!-- Chrome_Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

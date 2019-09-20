@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="18" total="39" passed="21">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser initialized]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Application started]]>
+    </line>
+    <line>
+      <![CDATA[Mobile icon is visible]]>
+    </line>
+    <line>
+      <![CDATA[Links to start page and login are active]]>
+    </line>
+    <line>
+      <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+    </line>
+    <line>
+      <![CDATA[I am not logged in: login button is visible]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message was compared]]>
+    </line>
+    <line>
+      <![CDATA[Return to last page]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Login was successful]]>
+    </line>
+    <line>
+      <![CDATA[Logout confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Logout was successful]]>
+    </line>
+    <line>
+      <![CDATA[Wait to start the new test case]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Porsche is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Audi is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Volkswagen is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search clicked]]>
+    </line>
+    <line>
+      <![CDATA[Load Page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+    </line>
+    <line>
+      <![CDATA[Some parameter passed ]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search started]]>
+    </line>
+    <line>
+      <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Browser initialized]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Application started]]>
+    </line>
+    <line>
+      <![CDATA[Mobile icon is visible]]>
+    </line>
+    <line>
+      <![CDATA[Links to start page and login are active]]>
+    </line>
+    <line>
+      <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+    </line>
+    <line>
+      <![CDATA[I am not logged in: login button is visible]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message was compared]]>
+    </line>
+    <line>
+      <![CDATA[Return to last page]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Login was successful]]>
+    </line>
+    <line>
+      <![CDATA[Logout confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Logout was successful]]>
+    </line>
+    <line>
+      <![CDATA[Wait to start the new test case]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Porsche is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Audi is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Volkswagen is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search clicked]]>
+    </line>
+    <line>
+      <![CDATA[Load Page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+    </line>
+    <line>
+      <![CDATA[Some parameter passed ]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search started]]>
+    </line>
+    <line>
+      <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Browser initialized]]>
+    </line>
+    <line>
+      <![CDATA[Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Application started]]>
+    </line>
+    <line>
+      <![CDATA[Mobile icon is visible]]>
+    </line>
+    <line>
+      <![CDATA[Links to start page and login are active]]>
+    </line>
+    <line>
+      <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+    </line>
+    <line>
+      <![CDATA[I am not logged in: login button is visible]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Warning message was compared]]>
+    </line>
+    <line>
+      <![CDATA[Return to last page]]>
+    </line>
+    <line>
+      <![CDATA[Go to the login]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[Login confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Login was successful]]>
+    </line>
+    <line>
+      <![CDATA[Logout confirmed]]>
+    </line>
+    <line>
+      <![CDATA[Logout was successful]]>
+    </line>
+    <line>
+      <![CDATA[Wait to start the new test case]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Porsche is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Audi is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch is visible]]>
+    </line>
+    <line>
+      <![CDATA[Car brand Volkswagen is available]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch started]]>
+    </line>
+    <line>
+      <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[QuickSearch can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search clicked]]>
+    </line>
+    <line>
+      <![CDATA[Load Page]]>
+    </line>
+    <line>
+      <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+    </line>
+    <line>
+      <![CDATA[Some parameter passed ]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search started]]>
+    </line>
+    <line>
+      <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+    </line>
+    <line>
+      <![CDATA[Detailed Search can be saved]]>
+    </line>
+    <line>
+      <![CDATA[Returned to the home page]]>
+    </line>
+    <line>
+      <![CDATA[Load page]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="139383" started-at="2018-04-19T06:05:05Z" finished-at="2018-04-19T06:07:24Z">
+    <groups>
+    </groups>
+    <test name="FireFox_Test" duration-ms="51616" started-at="2018-04-19T06:05:05Z" finished-at="2018-04-19T06:05:57Z">
+      <class name="CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest">
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@26653222]" name="verifyQuickSearch" duration-ms="5998" started-at="2018-04-19T06:05:17Z" data-provider="Cars" finished-at="2018-04-19T06:05:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Porsche]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Panamera]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Porsche is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@26653222]" name="verifyQuickSearch" duration-ms="5891" started-at="2018-04-19T06:05:23Z" data-provider="Cars" finished-at="2018-04-19T06:05:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Audi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Audi is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@26653222]" name="verifyQuickSearch" duration-ms="7085" started-at="2018-04-19T06:05:29Z" data-provider="Cars" finished-at="2018-04-19T06:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Volkswagen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Beetle]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[90000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Volkswagen is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_LoginTest">
+        <test-method status="PASS" signature="verifyStartPage()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@5e5792a0]" name="verifyStartPage" duration-ms="125" started-at="2018-04-19T06:05:10Z" finished-at="2018-04-19T06:05:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Mobile icon is visible]]>
+            </line>
+            <line>
+              <![CDATA[Links to start page and login are active]]>
+            </line>
+            <line>
+              <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+            </line>
+            <line>
+              <![CDATA[I am not logged in: login button is visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStartPage -->
+        <test-method status="PASS" signature="verifyNegativeLogin()[pri:1, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@5e5792a0]" name="verifyNegativeLogin" duration-ms="2849" started-at="2018-04-19T06:05:10Z" finished-at="2018-04-19T06:05:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message was compared]]>
+            </line>
+            <line>
+              <![CDATA[Return to last page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNegativeLogin -->
+        <test-method status="PASS" signature="verifyLogin()[pri:2, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@5e5792a0]" name="verifyLogin" duration-ms="3804" started-at="2018-04-19T06:05:13Z" finished-at="2018-04-19T06:05:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Login was successful]]>
+            </line>
+            <line>
+              <![CDATA[Logout confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Logout was successful]]>
+            </line>
+            <line>
+              <![CDATA[Wait to start the new test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_LoginTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_Tests">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@3ffc5af1]" name="beforeTest" is-config="true" duration-ms="5112" started-at="2018-04-19T06:05:05Z" finished-at="2018-04-19T06:05:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.mobile.de/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser initialized]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Application started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@3ffc5af1]" name="afterTest" is-config="true" duration-ms="657" started-at="2018-04-19T06:05:56Z" finished-at="2018-04-19T06:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_Tests -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest">
+        <test-method status="PASS" signature="verifyDetailedSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest@3532ec19]" name="verifyDetailedSearch" duration-ms="20078" started-at="2018-04-19T06:05:36Z" data-provider="Cars" finished-at="2018-04-19T06:05:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaguar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F-Type]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[neu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coupe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Detailed Search clicked]]>
+            </line>
+            <line>
+              <![CDATA[Load Page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+            </line>
+            <line>
+              <![CDATA[Some parameter passed ]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search started]]>
+            </line>
+            <line>
+              <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDetailedSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest -->
+    </test> <!-- FireFox_Test -->
+    <test name="IE_Test" duration-ms="38407" started-at="2018-04-19T06:05:57Z" finished-at="2018-04-19T06:06:35Z">
+      <class name="CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest">
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@464bee09]" name="verifyQuickSearch" duration-ms="7222" started-at="2018-04-19T06:06:05Z" data-provider="Cars" finished-at="2018-04-19T06:06:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Porsche]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Panamera]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Porsche is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@464bee09]" name="verifyQuickSearch" duration-ms="7866" started-at="2018-04-19T06:06:12Z" data-provider="Cars" finished-at="2018-04-19T06:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Audi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Audi is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@464bee09]" name="verifyQuickSearch" duration-ms="6593" started-at="2018-04-19T06:06:20Z" data-provider="Cars" finished-at="2018-04-19T06:06:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Volkswagen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Beetle]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[90000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Volkswagen is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_Tests">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@4dfa3a9d]" name="beforeTest" is-config="true" duration-ms="2404" started-at="2018-04-19T06:05:57Z" finished-at="2018-04-19T06:05:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.mobile.de/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser initialized]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Application started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@4dfa3a9d]" name="afterTest" is-config="true" duration-ms="2966" started-at="2018-04-19T06:06:32Z" finished-at="2018-04-19T06:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_Tests -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_LoginTest">
+        <test-method status="PASS" signature="verifyStartPage()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@6eebc39e]" name="verifyStartPage" duration-ms="31" started-at="2018-04-19T06:05:59Z" finished-at="2018-04-19T06:05:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Mobile icon is visible]]>
+            </line>
+            <line>
+              <![CDATA[Links to start page and login are active]]>
+            </line>
+            <line>
+              <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+            </line>
+            <line>
+              <![CDATA[I am not logged in: login button is visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStartPage -->
+        <test-method status="PASS" signature="verifyNegativeLogin()[pri:1, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@6eebc39e]" name="verifyNegativeLogin" duration-ms="2960" started-at="2018-04-19T06:05:59Z" finished-at="2018-04-19T06:06:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message was compared]]>
+            </line>
+            <line>
+              <![CDATA[Return to last page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNegativeLogin -->
+        <test-method status="PASS" signature="verifyLogin()[pri:2, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@6eebc39e]" name="verifyLogin" duration-ms="3198" started-at="2018-04-19T06:06:02Z" finished-at="2018-04-19T06:06:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Login was successful]]>
+            </line>
+            <line>
+              <![CDATA[Logout confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Logout was successful]]>
+            </line>
+            <line>
+              <![CDATA[Wait to start the new test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_LoginTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest">
+        <test-method status="PASS" signature="verifyDetailedSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest@f6c48ac]" name="verifyDetailedSearch" duration-ms="5161" started-at="2018-04-19T06:06:27Z" data-provider="Cars" finished-at="2018-04-19T06:06:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaguar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F-Type]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[neu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coupe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Detailed Search clicked]]>
+            </line>
+            <line>
+              <![CDATA[Load Page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+            </line>
+            <line>
+              <![CDATA[Some parameter passed ]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search started]]>
+            </line>
+            <line>
+              <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDetailedSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest -->
+    </test> <!-- IE_Test -->
+    <test name="Chrome_Test" duration-ms="49338" started-at="2018-04-19T06:06:35Z" finished-at="2018-04-19T06:07:24Z">
+      <class name="CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest">
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@5f341870]" name="verifyQuickSearch" duration-ms="9103" started-at="2018-04-19T06:06:50Z" data-provider="Cars" finished-at="2018-04-19T06:06:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Porsche]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Panamera]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[75000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Porsche is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@5f341870]" name="verifyQuickSearch" duration-ms="9545" started-at="2018-04-19T06:06:59Z" data-provider="Cars" finished-at="2018-04-19T06:07:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Audi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[150000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Audi is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+        <test-method status="PASS" signature="verifyQuickSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest@5f341870]" name="verifyQuickSearch" duration-ms="7646" started-at="2018-04-19T06:07:08Z" data-provider="Cars" finished-at="2018-04-19T06:07:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Volkswagen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Beetle]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[90000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch is visible]]>
+            </line>
+            <line>
+              <![CDATA[Car brand Volkswagen is available]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch started]]>
+            </line>
+            <line>
+              <![CDATA[My QuickSearch is displayey, QuickSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[QuickSearch can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyQuickSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_QuickSearchTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_LoginTest">
+        <test-method status="PASS" signature="verifyStartPage()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@14bf9759]" name="verifyStartPage" duration-ms="125" started-at="2018-04-19T06:06:42Z" finished-at="2018-04-19T06:06:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Mobile icon is visible]]>
+            </line>
+            <line>
+              <![CDATA[Links to start page and login are active]]>
+            </line>
+            <line>
+              <![CDATA[Header title  verified: Deutschlands größter Fahrzeugmarkt]]>
+            </line>
+            <line>
+              <![CDATA[I am not logged in: login button is visible]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStartPage -->
+        <test-method status="PASS" signature="verifyNegativeLogin()[pri:1, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@14bf9759]" name="verifyNegativeLogin" duration-ms="3460" started-at="2018-04-19T06:06:42Z" finished-at="2018-04-19T06:06:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Warning message was compared]]>
+            </line>
+            <line>
+              <![CDATA[Return to last page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNegativeLogin -->
+        <test-method status="PASS" signature="verifyLogin()[pri:2, instance:CrossBrowser_MobileDeTests.MobileDe_LoginTest@14bf9759]" name="verifyLogin" duration-ms="4332" started-at="2018-04-19T06:06:45Z" finished-at="2018-04-19T06:06:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Go to the login]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed]]>
+            </line>
+            <line>
+              <![CDATA[Login confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Login was successful]]>
+            </line>
+            <line>
+              <![CDATA[Logout confirmed]]>
+            </line>
+            <line>
+              <![CDATA[Logout was successful]]>
+            </line>
+            <line>
+              <![CDATA[Wait to start the new test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_LoginTest -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_Tests">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@3c0ecd4b]" name="beforeTest" is-config="true" duration-ms="6625" started-at="2018-04-19T06:06:35Z" finished-at="2018-04-19T06:06:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.mobile.de/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser initialized]]>
+            </line>
+            <line>
+              <![CDATA[Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Application started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:CrossBrowser_MobileDeTests.MobileDe_Tests@3c0ecd4b]" name="afterTest" is-config="true" duration-ms="665" started-at="2018-04-19T06:07:24Z" finished-at="2018-04-19T06:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_Tests -->
+      <class name="CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest">
+        <test-method status="PASS" signature="verifyDetailedSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest@553f17c]" name="verifyDetailedSearch" duration-ms="7833" started-at="2018-04-19T06:07:16Z" data-provider="Cars" finished-at="2018-04-19T06:07:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaguar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F-Type]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[neu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Coupe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Detailed Search clicked]]>
+            </line>
+            <line>
+              <![CDATA[Load Page]]>
+            </line>
+            <line>
+              <![CDATA[Parameter passed: Jaguar F-Type Coupe]]>
+            </line>
+            <line>
+              <![CDATA[Some parameter passed ]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search started]]>
+            </line>
+            <line>
+              <![CDATA[My Detailed Search is displayey, DetailedSearch was successful]]>
+            </line>
+            <line>
+              <![CDATA[Detailed Search can be saved]]>
+            </line>
+            <line>
+              <![CDATA[Returned to the home page]]>
+            </line>
+            <line>
+              <![CDATA[Load page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDetailedSearch -->
+      </class> <!-- CrossBrowser_MobileDeTests.MobileDe_DetailedSearchTest -->
+    </test> <!-- Chrome_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
